@@ -1,0 +1,2 @@
+# bigquery
+Bigquery python script
